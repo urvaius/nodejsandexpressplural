@@ -16,5 +16,5 @@ getUsers().then(result => {
   });
 
 
-  global.document.getElementById('users').innerHTML = userBody;
+  global.document.getElementById('users').innerHTML = usersBody;
 });
