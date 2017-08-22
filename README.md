@@ -1,2 +1,3 @@
-# pluralsight-js-dev-env
-Javascript Development Environment from pluralsight course with Cory House
+# beginning node js. this is my development starter kit second use
+
+node js development invironment for pluralisght gourse getting started with node js.
